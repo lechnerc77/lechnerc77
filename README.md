@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
  Hi there, welcome to Christian Lechner's profile 🤘
 </h1>
