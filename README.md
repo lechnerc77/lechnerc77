@@ -32,6 +32,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Durable Functions with Netherite on Kyma](https://dev.to/lechnerc77/durable-functions-with-netherite-on-kyma-33dn)
+- [Bind Azure Functions to SAP Event Mesh … What?](https://dev.to/lechnerc77/bind-azure-functions-to-sap-event-mesh-what-2n8j)
+- [Road trip with my friends Kyma, KEDA and Azure Functions](https://dev.to/lechnerc77/road-trip-with-my-friends-kyma-keda-and-azure-functions-236a)
+- [Say Hello to the Kyma Update Twitter Bot via Azure Durable Functions](https://dev.to/lechnerc77/say-hello-to-the-kyma-update-twitter-bot-by-azure-durable-functions-4e1a)
+- [Local Azure Durable Functions Development in WSL2 - 101](https://dev.to/lechnerc77/local-azure-durable-functions-development-in-wsl2-101-37g3)
 <!-- BLOG-POST-LIST:END -->
 
 
