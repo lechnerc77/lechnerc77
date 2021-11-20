@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
  Hi there, welcome to Christian Lechner's profile 🤘
 </h1>
@@ -32,7 +31,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 
 ## 📢 My Latest Tweets
 
