@@ -25,7 +25,7 @@
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WE5wB1S7SiQ"><img width="100%" src="https://i.ytimg.com/vi/WE5wB1S7SiQ/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=WE5wB1S7SiQ">myNewsWrap – SAP and Microsoft &lpar;Episode 61&rpar;</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=NwwQt8mCKmA"><img width="100%" src="https://i.ytimg.com/vi/NwwQt8mCKmA/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=NwwQt8mCKmA">myNewsWrap – SAP and Microsoft &lpar;Episode 60&rpar;</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=tywrSE2rVZo"><img width="100%" src="https://i.ytimg.com/vi/tywrSE2rVZo/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=tywrSE2rVZo">myNewsWrap – SAP and Microsoft &lpar;Episode 59&rpar; incl. Microsft Ignite 2021</a></td></tr></table><!-- YOUTUBE:END -->
+<td><a href="https://www.youtube.com/watch?v=tywrSE2rVZo">myNewsWrap – SAP and Microsoft &lpar;Episode 59&rpar; incl. Microsoft Ignite 2021</a></td></tr></table><!-- YOUTUBE:END -->
 
 ## 📝 My Latest Blog Posts on dev.to
 
