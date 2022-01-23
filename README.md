@@ -22,10 +22,10 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0g7pcxk6YWE"><img width="100%" src="https://i.ytimg.com/vi/0g7pcxk6YWE/mqdefault.jpg"></a></td></tr><tr>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YU7pMTJ7pJk"><img width="100%" src="https://i.ytimg.com/vi/YU7pMTJ7pJk/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=YU7pMTJ7pJk">myNewsWrap – SAP and Microsoft &lpar;Episode 68&rpar;</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=0g7pcxk6YWE"><img width="100%" src="https://i.ytimg.com/vi/0g7pcxk6YWE/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=0g7pcxk6YWE">myNewsWrap – SAP and Microsoft &lpar;Episode 67&rpar;</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=b6gXihOsfCo"><img width="100%" src="https://i.ytimg.com/vi/b6gXihOsfCo/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=b6gXihOsfCo">myNewsWrap – SAP and Microsoft &lpar;Episode 66&rpar;</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=jTQzV66-mkg"><img width="100%" src="https://i.ytimg.com/vi/jTQzV66-mkg/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=jTQzV66-mkg">myNewsWrap – SAP and Microsoft &lpar;Episode 65&rpar;</a></td></tr></table><!-- YOUTUBE:END -->
+<td><a href="https://www.youtube.com/watch?v=b6gXihOsfCo">myNewsWrap – SAP and Microsoft &lpar;Episode 66&rpar;</a></td></tr></table><!-- YOUTUBE:END -->
 
 ## 📝 My Latest Blog Posts on dev.to
 
