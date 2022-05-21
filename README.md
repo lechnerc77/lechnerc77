@@ -23,7 +23,7 @@
 </div>
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vOzrR9BpzCI"><img width="100%" src="https://i.ytimg.com/vi/vOzrR9BpzCI/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=vOzrR9BpzCI">myNewsWrap – SAP and Microsoft &lpar;Episode 83&rpar; incl. SAP SAPPHIRE 2022</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=_kQ96-xTc5A"><img width="100%" src="https://i.ytimg.com/vi/_kQ96-xTc5A/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=vOzrR9BpzCI">myNewsWrap – SAP and Microsoft &lpar;Episode 84&rpar; incl. SAP SAPPHIRE 2022</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=_kQ96-xTc5A"><img width="100%" src="https://i.ytimg.com/vi/_kQ96-xTc5A/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=_kQ96-xTc5A">myNewsWrap – SAP and Microsoft &lpar;Episode 83&rpar; incl. DSAG Technologietage 2022</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=XfeOuECE2aU"><img width="100%" src="https://i.ytimg.com/vi/XfeOuECE2aU/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=XfeOuECE2aU">myNewsWrap – SAP and Microsoft &lpar;Episode 82&rpar;</a></td></tr></table><!-- YOUTUBE:END -->
 
