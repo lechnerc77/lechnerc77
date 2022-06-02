@@ -22,10 +22,10 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kxqINSCjXHA"><img width="100%" src="https://i.ytimg.com/vi/kxqINSCjXHA/mqdefault.jpg"></a></td></tr><tr>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk"><img width="100%" src="https://i.ytimg.com/vi/BHBgQ45fgIk/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk">#QuickGlance - the btp-setup-automator</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=kxqINSCjXHA"><img width="100%" src="https://i.ytimg.com/vi/kxqINSCjXHA/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=kxqINSCjXHA">#QuickGlance - The updated VSCode Azure Tools Extension</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=QXD8M_tf-eA"><img width="100%" src="https://i.ytimg.com/vi/QXD8M_tf-eA/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=QXD8M_tf-eA">myNewsWrap – SAP and Microsoft &lpar;Episode 85&rpar; ... The End?</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=vOzrR9BpzCI"><img width="100%" src="https://i.ytimg.com/vi/vOzrR9BpzCI/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=vOzrR9BpzCI">myNewsWrap – SAP and Microsoft &lpar;Episode 84&rpar; incl. SAP SAPPHIRE 2022</a></td></tr></table><!-- YOUTUBE:END -->
+<td><a href="https://www.youtube.com/watch?v=QXD8M_tf-eA">myNewsWrap – SAP and Microsoft &lpar;Episode 85&rpar; ... The End?</a></td></tr></table><!-- YOUTUBE:END -->
 
 ## 📝 My Latest Blog Posts on dev.to
 
