@@ -32,11 +32,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Episode 89: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-89-mynewswrap-sap-and-microsoft-1f8h)
 - [Episode 88: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-88-mynewswrap-sap-and-microsoft-59ic)
 - [Episode 87: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-87-mynewswrap-sap-and-microsoft-2olf)
 - [Episode 86: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-86-mynewswrap-sap-and-microsoft-43ee)
 - [myNewsWrap: News from SAP and Microsoft - It&#39;s Season 2](https://dev.to/lechnerc77/mynewswrap-news-from-sap-and-microsoft-its-season-2-261c)
-- [Welcome the &lpar;unofficial&rpar; Azure Functions Container CLI](https://dev.to/lechnerc77/welcome-the-unofficial-azure-functions-container-cli-1npb)
 <!-- BLOG-POST-LIST:END -->
 
 
