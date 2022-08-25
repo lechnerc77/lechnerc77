@@ -22,10 +22,10 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0JU-tH4l-QQ"><img width="100%" src="https://i.ytimg.com/vi/0JU-tH4l-QQ/mqdefault.jpg"></a></td></tr><tr>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1xGbZRqEkb0"><img width="100%" src="https://i.ytimg.com/vi/1xGbZRqEkb0/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=1xGbZRqEkb0">#QuickGlance - Azure Developer CLI &lpar;part 3&rpar;: Closer look at azd</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=0JU-tH4l-QQ"><img width="100%" src="https://i.ytimg.com/vi/0JU-tH4l-QQ/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=0JU-tH4l-QQ">#QuickGlance - Azure Developer CLI &lpar;part 2&rpar;: Walkthrough Template Code</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=eLiD3E7tPYo"><img width="100%" src="https://i.ytimg.com/vi/eLiD3E7tPYo/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=eLiD3E7tPYo">#QuickGlance - Azure Developer CLI &lpar;part 1&rpar;: Getting started</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk"><img width="100%" src="https://i.ytimg.com/vi/BHBgQ45fgIk/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=BHBgQ45fgIk">#QuickGlance - the btp-setup-automator</a></td></tr></table><!-- YOUTUBE:END -->
+<td><a href="https://www.youtube.com/watch?v=eLiD3E7tPYo">#QuickGlance - Azure Developer CLI &lpar;part 1&rpar;: Getting started</a></td></tr></table><!-- YOUTUBE:END -->
 
 ## 📝 My Latest Blog Posts on dev.to
 
