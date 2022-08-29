@@ -22,10 +22,10 @@
 
 </div>
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CTvYclsUDSo"><img width="100%" src="https://i.ytimg.com/vi/CTvYclsUDSo/mqdefault.jpg"></a></td></tr><tr>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8aYp1izOijk"><img width="100%" src="https://i.ytimg.com/vi/8aYp1izOijk/mqdefault.jpg"></a></td></tr><tr>
+<td><a href="https://www.youtube.com/watch?v=8aYp1izOijk">#QuickGlance - Azure Developer CLI &lpar;part 7&rpar;: Wrap Up</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=CTvYclsUDSo"><img width="100%" src="https://i.ytimg.com/vi/CTvYclsUDSo/mqdefault.jpg"></a></td></tr><tr>
 <td><a href="https://www.youtube.com/watch?v=CTvYclsUDSo">#QuickGlance - Azure Developer CLI &lpar;part 6&rpar; – Deployment Pipeline on GitHub</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=kAag7kqheD4"><img width="100%" src="https://i.ytimg.com/vi/kAag7kqheD4/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=kAag7kqheD4">#QuickGlance - Azure Developer CLI &lpar;part 5&rpar; – Debugging the project</a></td></tr></table><table><tr><td><a href="https://www.youtube.com/watch?v=O7o68rdtas0"><img width="100%" src="https://i.ytimg.com/vi/O7o68rdtas0/mqdefault.jpg"></a></td></tr><tr>
-<td><a href="https://www.youtube.com/watch?v=O7o68rdtas0">#QuickGlance - Azure Developer CLI &lpar;part 4&rpar; – Monitoring</a></td></tr></table><!-- YOUTUBE:END -->
+<td><a href="https://www.youtube.com/watch?v=kAag7kqheD4">#QuickGlance - Azure Developer CLI &lpar;part 5&rpar; – Debugging the project</a></td></tr></table><!-- YOUTUBE:END -->
 
 ## 📝 My Latest Blog Posts on dev.to
 
