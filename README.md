@@ -32,11 +32,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Episode 102: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-102-mynewswrap-sap-and-microsoft-39jk)
 - [Episode 101: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-101-mynewswrap-sap-and-microsoft-2lg2)
 - [Episode 100: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-100-mynewswrap-sap-and-microsoft-1jk0)
 - [The Azure Developer CLI – A Walk Through](https://dev.to/lechnerc77/the-azure-developer-cli-a-walk-through-22fm)
 - [Episode 99: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-99-mynewswrap-sap-and-microsoft-3cag)
-- [Episode 98: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-98-mynewswrap-sap-and-microsoft-23d7)
 <!-- BLOG-POST-LIST:END -->
 
 
