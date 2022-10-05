@@ -32,11 +32,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Developer CLI - The new infrastructure setup](https://dev.to/lechnerc77/azure-developer-cli-the-new-infrastructure-setup-4caj)
 - [Episode 104: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-104-mynewswrap-sap-and-microsoft-568n)
 - [Episode 103: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-103-mynewswrap-sap-and-microsoft-22al)
 - [Azure Developer CLI - How does it know that?](https://dev.to/lechnerc77/azure-developer-cli-how-does-it-know-that-1ngl)
 - [The Azure Developer CLI - Compatibility journey for an Azure Functions Project](https://dev.to/lechnerc77/the-azure-developer-cli-compatibility-journey-for-an-azure-functions-project-3mc1)
-- [Episode 102: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-102-mynewswrap-sap-and-microsoft-39jk)
 <!-- BLOG-POST-LIST:END -->
 
 
