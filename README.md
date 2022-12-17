@@ -32,7 +32,7 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# What happened with Azure Functions in 2022? And some wishes for 2023](https://dev.to/lechnerc77/-what-happened-with-azure-functions-in-2022-and-some-wishes-for-2023-e00)
+- [What happened with Azure Functions in 2022? And some wishes for 2023](https://dev.to/lechnerc77/-what-happened-with-azure-functions-in-2022-and-some-wishes-for-2023-e00)
 - [Episode 114: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-114-mynewswrap-sap-and-microsoft-43hg)
 - [Episode 113: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-113-mynewswrap-sap-and-microsoft-35id)
 - [Episode 112: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-112-mynewswrap-sap-and-microsoft-3n3n)
