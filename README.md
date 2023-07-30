@@ -32,11 +32,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Episode 145: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-145-mynewswrap-sap-and-microsoft-1bhf)
 - [Episode 144: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-144-mynewswrap-sap-and-microsoft-3g66)
 - [Episode 143: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-143-mynewswrap-sap-and-microsoft-426)
 - [Episode 142: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-142-mynewswrap-sap-and-microsoft-176n)
 - [Episode 141: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-141-mynewswrap-sap-and-microsoft-55o0)
-- [Episode 140: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-140-mynewswrap-sap-and-microsoft-5dig)
 <!-- BLOG-POST-LIST:END -->
 
 
