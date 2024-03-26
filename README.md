@@ -32,7 +32,7 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Enable Developers on SAP BTP with Terraform, GitHub Actions and Backstage](https://dev.to/lechnerc77/-enable-developers-on-sap-btp-with-terraform-github-actions-and-backstage-357e)
+- [Enable Developers on SAP BTP with Terraform, GitHub Actions and Backstage](https://dev.to/lechnerc77/-enable-developers-on-sap-btp-with-terraform-github-actions-and-backstage-357e)
 - [Episode 170: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-170-mynewswrap-sap-and-microsoft-5acg)
 - [Episode 169: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-169-mynewswrap-sap-and-microsoft-i97)
 - [Episode 168: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-168-mynewswrap-sap-and-microsoft-4hpi)
