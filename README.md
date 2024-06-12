@@ -32,11 +32,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform - Let&#39;s keep the quality up!](https://dev.to/lechnerc77/terraform-lets-keep-the-quality-up-1abg)
 - [Giving Kyma a little spin ... a SpinKube](https://dev.to/lechnerc77/giving-kyma-a-little-spin-a-spinkube-4pmm)
 - [SAP BTP, Terraform and Open Policy Agent](https://dev.to/lechnerc77/sap-btp-terraform-and-open-policy-agent-243m)
 - [Terraform Provider for SAP BTP - Remote State and Drift Detection](https://dev.to/lechnerc77/terraform-provider-for-sap-btp-remote-state-and-drift-detection-3pnj)
 - [Enable Developers on SAP BTP with Terraform, GitHub Actions and Backstage](https://dev.to/lechnerc77/-enable-developers-on-sap-btp-with-terraform-github-actions-and-backstage-357e)
-- [Episode 170: myNewsWrap – SAP and Microsoft](https://dev.to/lechnerc77/episode-170-mynewswrap-sap-and-microsoft-5acg)
 <!-- BLOG-POST-LIST:END -->
 
 
