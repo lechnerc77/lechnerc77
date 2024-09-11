@@ -32,11 +32,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Experimenting with Terramate and SAP BTP](https://dev.to/lechnerc77/experimenting-with-terramate-and-sap-btp-22m1)
 - [Pulumi with Terraform – the easy way](https://dev.to/lechnerc77/pulumi-with-terraform-the-easy-way-214a)
 - [Mind the Terraform Modules](https://dev.to/lechnerc77/-mind-the-terraform-modules-3p11)
 - [Terramate this SAP BTP!](https://dev.to/lechnerc77/terramate-this-sap-btp-5a8p)
 - [Terraform - Let&#39;s keep the quality up!](https://dev.to/lechnerc77/terraform-lets-keep-the-quality-up-1abg)
-- [Giving Kyma a little spin ... a SpinKube](https://dev.to/lechnerc77/giving-kyma-a-little-spin-a-spinkube-4pmm)
 <!-- BLOG-POST-LIST:END -->
 
 
