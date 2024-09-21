@@ -3,10 +3,9 @@
 </h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/lechnerc77?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lechnerc77?style=social&link=https://twitter.com/lechnerc77)](https://twitter.com/lechnerc77)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCeaAZSNyP3MbyGe_1KKZADA?style=social&link=https://www.youtube.com/c/ChristianLechner77?sub_confirmation=1)](https://www.youtube.com/c/ChristianLechner77?sub_confirmation=1)
-[![Polywork: Christian Lechner](https://img.shields.io/badge/Polywork-543DE0?style=flat-square&logo=polywork&logoColor=black&link=https://www.polywork.com/lechnerc77/)](https://www.polywork.com/lechnerc77)
 [![Linkedin: Christian Lechner](https://img.shields.io/badge/-Christian%20Lechner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-lechner-963b7017/)](https://www.linkedin.com/in/christian-lechner-963b7017/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCeaAZSNyP3MbyGe_1KKZADA?style=social&link=https://www.youtube.com/c/ChristianLechner77?sub_confirmation=1)](https://www.youtube.com/c/ChristianLechner77?sub_confirmation=1)
+
 
 ## 📈 My GitHub Statistics
 
