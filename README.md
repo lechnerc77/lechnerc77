@@ -31,11 +31,11 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Drive the Terraform MCP Server with GitHub Copilot Chat](https://dev.to/lechnerc77/test-drive-the-terraform-mcp-server-with-github-copilot-chat-3jf1)
 - [Automating an Open Source Project with GitHub Actions](https://dev.to/lechnerc77/automating-an-open-source-project-with-github-actions-l0e)
 - [Experimenting with Terramate and SAP BTP](https://dev.to/lechnerc77/experimenting-with-terramate-and-sap-btp-22m1)
 - [Pulumi with Terraform – the easy way](https://dev.to/lechnerc77/pulumi-with-terraform-the-easy-way-214a)
 - [Mind the Terraform Modules](https://dev.to/lechnerc77/-mind-the-terraform-modules-3p11)
-- [Terramate this SAP BTP!](https://dev.to/lechnerc77/terramate-this-sap-btp-5a8p)
 <!-- BLOG-POST-LIST:END -->
 
 
