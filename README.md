@@ -26,9 +26,9 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Terramate Cloud part 2 – A walkthrough](https://dev.to/lechnerc77/exploring-terramate-cloud-part-2-a-walkthrough-5a6i)
+- [Exploring Terramate Cloud part 1 – Getting things set up](https://dev.to/lechnerc77/exploring-terramate-cloud-part-1-getting-things-setup-5h0f)
 - [Test Drive the Terraform MCP Server with GitHub Copilot Chat](https://dev.to/lechnerc77/test-drive-the-terraform-mcp-server-with-github-copilot-chat-3jf1)
 - [Automating an Open Source Project with GitHub Actions](https://dev.to/lechnerc77/automating-an-open-source-project-with-github-actions-l0e)
 - [Experimenting with Terramate and SAP BTP](https://dev.to/lechnerc77/experimenting-with-terramate-and-sap-btp-22m1)
-- [Pulumi with Terraform – the easy way](https://dev.to/lechnerc77/pulumi-with-terraform-the-easy-way-214a)
-- [Mind the Terraform Modules](https://dev.to/lechnerc77/-mind-the-terraform-modules-3p11)
 <!-- BLOG-POST-LIST:END -->
